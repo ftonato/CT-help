@@ -8,4 +8,9 @@ Vamos começar pelo curso básico da _Free Code Camp_, pelo módulo [HTML5 e CSS
 
 ##### [04/2017] - Entregas
 
-_Aqui ficarão registrados as tarefas que foram resolvidas no mês, para que consigamos mensurar seu crescimento no conteúdo em questão._
+* HTML
+  * (`div`, `p`, `ul`, `ol`, `li`, `form`, `label`, `input`, `button`, `br`, `span`, `h1`-`h6`)
+* CSS
+  * `tags`, `class`, `ids`
+
+[Básico de HTML e CSS](https://jsfiddle.net/5yhzfxs1/1/)

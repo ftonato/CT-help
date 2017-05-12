@@ -2,10 +2,21 @@
 
 ##### 04/2017 - Material
 
-**Básico (necessário)**
+**Explicação sobre `XMLHttpRequest`**
 
-Vamos começar pelo curso básico da _Free Code Camp_, pelo módulo [HTML5 e CSS](https://www.freecodecamp.com/map-aside#nested-collapseHTML5andCSS).
+[MDN artigos sobre XMLHttpRequest - API](https://developer.mozilla.org/pt-BR/docs/Web/API/XMLHttpRequest)
 
 ##### [04/2017] - Entregas
+
+_Aqui ficarão registrados as tarefas que foram resolvidas no mês, para que consigamos mensurar seu crescimento no conteúdo em questão._
+
+##### 05/2017 - Material
+
+**Explicação sobre `Namespaces` e `Autoload` em PHP**
+
+[PHP.net - Autoloading Classes](http://php.net/manual/pt_BR/language.oop5.autoload.php)  
+[phptherightway - Namespaces](http://br.phptherightway.com/#namespaces)
+
+##### [05/2017] - Entregas
 
 _Aqui ficarão registrados as tarefas que foram resolvidas no mês, para que consigamos mensurar seu crescimento no conteúdo em questão._
